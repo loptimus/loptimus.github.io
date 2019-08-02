@@ -7,6 +7,9 @@
       <categories>
         <category>游戏数据分析</category>
       </categories>
+      <tags>
+        <tag>Python</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[渠道分析—用户忠诚度]]></title>
@@ -15,6 +18,9 @@
       <categories>
         <category>游戏数据分析</category>
       </categories>
+      <tags>
+        <tag>Python</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[渠道分析—用户质量评级]]></title>
@@ -23,6 +29,9 @@
       <categories>
         <category>游戏数据分析</category>
       </categories>
+      <tags>
+        <tag>Python</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[渠道分析—新增用户质量]]></title>
@@ -31,6 +40,9 @@
       <categories>
         <category>游戏数据分析</category>
       </categories>
+      <tags>
+        <tag>Python</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[三大抽样分布]]></title>
@@ -67,6 +79,7 @@
       </categories>
       <tags>
         <tag>爬虫</tag>
+        <tag>Python</tag>
       </tags>
   </entry>
   <entry>
